@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-api-documentation"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS api-documentation component"
+
+[lib]
+name = "api_documentation"
+path = "src/lib.rs"
